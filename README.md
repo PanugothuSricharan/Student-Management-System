@@ -62,6 +62,4 @@ docker-compose up --build
 └── manage.py
 ```
 
-## Demo
-
-Video walkthrough: https://youtu.be/mM6vMMLYJHY
+ 
